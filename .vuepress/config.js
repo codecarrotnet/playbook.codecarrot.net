@@ -126,7 +126,7 @@ module.exports = {
 				['aarrr', 'AARRR Framework'],
 				['a-b-testing', 'A/B Testing'],
 				['feature-flags', 'Feature Flags'],
-				['instrumentation,', 'Instrumentation'],
+				['instrumentation', 'Instrumentation'],
 				['subscription-metrics', 'Subscription Metrics']
 			],
 			'/our-company/': [
