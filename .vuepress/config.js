@@ -2,6 +2,7 @@ module.exports = {
 	title: 'CodeCarrot Playbook',
 	description: "It's all about CodeCarrot the way we work.",
 	base: '/',
+	ga: 'UA-78257614-9',
 	head: [['link', { rel: 'icon', href: '/images/favicon.png' }]],
 	themeConfig: {
 		lastUpdated: 'Last Updated',
