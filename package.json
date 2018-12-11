@@ -1,0 +1,25 @@
+{
+  "name": "playbook.codecarrot.net",
+  "version": "1.0.0",
+  "description": "CodeCarrot Playbook",
+  "main": "README.md",
+  "scripts": {
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "vuepress": "0.14.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecarrotnet/playbook.codecarrot.net.git"
+  },
+  "keywords": [
+    "codecarrot"
+  ],
+  "author": "CodeCarrot",
+  "license": "CC BY-NC 3.0",
+  "bugs": {
+    "url": "https://github.com/codecarrotnet/playbook.codecarrot.net/issues"
+  },
+  "homepage": "https://playbook.codecarrot.net"
+}
