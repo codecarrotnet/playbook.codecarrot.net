@@ -7,7 +7,7 @@
     "build": "vuepress build"
   },
   "dependencies": {
-    "vuepress": "1.5.2"
+    "vuepress": "1.5.4"
   },
   "repository": {
     "type": "git",
