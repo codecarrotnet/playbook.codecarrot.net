@@ -1,0 +1,11 @@
+previewsEnabled: true
+services:
+  - type: web
+    name: "playbook.codecarrot.net"
+    env: static
+    buildCommand: vuepress build
+    staticPublishPath: .vuepress/dist
+    headers:
+      - path: /*
+        name: X-Frame-Options
+        value: sameorigin
